@@ -1,7 +1,4 @@
 # Potential_Talent
-
-# Potential-Talents
-
 ---
 
 # 🔍 AI-Powered Candidate Ranking System
