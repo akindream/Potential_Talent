@@ -85,6 +85,7 @@ Each candidate record includes:
 4. Generate a relevance-based fitness score
 5. Re-rank based on feedback ("starred" candidates)
 6. Finetune with QLoRA for supervised learning-to-rank
+7. RAG (Retrieval-Augmented Generation) implemented
 
 ---
 
