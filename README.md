@@ -178,7 +178,7 @@ PRs are welcome! If you have ideas to improve ranking, scoring, or user interact
 
 **Project Maintainer:** \[Ernest Braimoh]
 
-📧 Medium: [Ernest Braimoh](https://medium.com/@akindream/automating-talent-discovery-with-ai-ranking-potential-candidates-using-nlp-llms-and-rag-ab86fbb218e0))
+📧 Medium: [Ernest Braimoh](https://medium.com/@akindream/automating-talent-discovery-with-ai-ranking-potential-candidates-using-nlp-llms-and-rag-ab86fbb218e0)
 
 🔗 LinkedIn: [Ernest Braimoh]([https://linkedin.com/in/ernest-braimoh](https://www.linkedin.com/posts/ernest-braimoh_ai-nlp-llm-activity-7342281471140782081-OU4r?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJ5f84BSF16YQBlNnzy86sMhIc99PdU8l0))
 
